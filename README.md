@@ -9,7 +9,7 @@
    </tr>
   <tr>
      <td align="center">
-        <a href="https://github.com/keonju2"><><br /><sub><b>나건주</b></sub></a>
+        <a href="https://github.com/keonju2"><br /><sub><b>나건주</b></sub></a>
      </td>
     <td align="center">
     <a href="https://github.com/Kyeong-Ah"><br /><sub><b>김경아</b></sub></a><br />
