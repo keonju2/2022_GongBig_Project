@@ -9,22 +9,22 @@
    </tr>
   <tr>
      <td align="center">
-        <a href="https://github.com/keonju2"><br /><sub><b>나건주</b></sub></a>
+        <a href="https://github.com/keonju2"><sub><b>나건주</b></sub></a>
      </td>
     <td align="center">
-    <a href="https://github.com/Kyeong-Ah"><br /><sub><b>김경아</b></sub></a><br />
+    <a href="https://github.com/Kyeong-Ah"><sub><b>김경아</b></sub></a><br />
     </td>
     <td align="center">
-    <a href="https://github.com/Kimdaeki97"><br /><sub><b>김대기</b></sub></a><br />
+    <a href="https://github.com/Kimdaeki97"><sub><b>김대기</b></sub></a><br />
     </td>
     <td align="center">
-    <a href="https://github.com/jiwon517"><br /><sub><b>김지원</b></sub></a><br />
+    <a href="https://github.com/jiwon517"><sub><b>김지원</b></sub></a><br />
     </td>
     <td align="center">
-    <a href="https://github.com/kimyoungraek"><br /><sub><b>김영래</b></sub></a><br />
+    <a href="https://github.com/kimyoungraek"><sub><b>김영래</b></sub></a><br />
     </td>
     <td align="center">
-    <a href="https://github.com/deokbae11"><br /><sub><b>김동훈</b></sub></a><br />
+    <a href="https://github.com/deokbae11"><sub><b>김동훈</b></sub></a><br />
     </td>
     
   <tr>
