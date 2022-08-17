@@ -4,15 +4,15 @@
 <table algin="center">
    <tr>
       <td colspan="1" align="center"><strong>PM</strong></td>
+      <td colspan="3" align="center"><strong>리서치</strong></td>
       <td colspan="2" align="center"><strong>리서치</strong></td>
-      <td colspan="1" align="center"><strong>리서치</strong></td>
       <td colspan="1" align="center"><strong>리서치</strong></td>
       <td colspan="2" align="center"><strong>분석</strong></td>
       <td colspan="1" align="center"><strong>분석</strong></td>
    </tr>
   <tr>
      <td align="center">
-        <a href="https://github.com/keonju2"><br /><sub><b>나건주</b></sub></a>
+        <a href="https://github.com/keonju2"><><br /><sub><b>나건주</b></sub></a>
      </td>
     <td align="center">
     <a href="https://github.com/Kyeong-Ah"><br /><sub><b>김경아</b></sub></a><br />
